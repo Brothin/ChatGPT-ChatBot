@@ -2,7 +2,7 @@
 Developed a full-stack web application based AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI. It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted. It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
 
 # YouTube Demo:
-https://youtu.be/wWzQ8i4dBL4
+https://youtu.be/cqPhwt7iJtw
 
 # Screenshots
 ## Landing Page
