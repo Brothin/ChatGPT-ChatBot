@@ -4,7 +4,7 @@ Developed a full-stack web application based AI Chatbot application, inspired by
 # YouTube Demo:
 I have created a YouTube video showing the Demo of the project and explaining the build and how it focuses on the value it brings to our day-to-day life and how it could possibly be combined with Google search or chatGPT to be our ancillary resource that’s trained on our most personal and valuable private and public data. 
 
-https://youtu.be/cqPhwt7iJtw
+Link: https://youtu.be/cqPhwt7iJtw
 
 # Screenshots
 ## Landing Page
